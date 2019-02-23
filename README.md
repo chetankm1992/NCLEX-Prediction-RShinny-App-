@@ -1,4 +1,4 @@
-# NCLEX-Prediction-RShinny-App-
+# NCLEX-Prediction-RShinny-App
 
 •	Carried out statistical analysis on Nursing School admissions and course enrollment & results data and used JavaScript and D3 to visualize different patterns and trends for students’ performance against the courses  
 •	These results effectively helped the school to maintain and redesign their curriculum to get most success rate  
